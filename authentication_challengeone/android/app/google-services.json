@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65843553071",
+    "project_id": "authenticationchllenge",
+    "storage_bucket": "authenticationchllenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65843553071:android:7936364b4a78ad29eef7da",
+        "android_client_info": {
+          "package_name": "com.example.authentication_challengeone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65843553071-old2a0rlhvsvm4ujff0th7iama2qh3vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEYlhPE6mSRSLxI7HBt1XaxVQ6UT-tUZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65843553071-old2a0rlhvsvm4ujff0th7iama2qh3vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
